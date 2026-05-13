@@ -101,6 +101,6 @@ http://localhost:8081/signup.html
 ## Author
 
 ### Ebrahim Al-Serri
-Computer Programming & Analysis Graduate
+Computer Programming & Analysis - Graduate 2026
 
 George Brown College
